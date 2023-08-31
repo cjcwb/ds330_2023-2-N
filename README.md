@@ -1,3 +1,3 @@
-# ds330_2023-2-N
+# DS330 - UFPR - 2023
 
 Lucas Dias - GRR20184531
